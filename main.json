@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/digitalegesellschaft.github.io\/workadventure-map-bitwaescherei\/map.json"
+                 "value":".\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
