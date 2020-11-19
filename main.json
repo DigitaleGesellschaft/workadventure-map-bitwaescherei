@@ -73,10 +73,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/digitale-gesellschaft.ch\/pub\/bitwaescherei"
+                 "value":"https:\/\/streaming.cosin.ch\/aktionshalle.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
