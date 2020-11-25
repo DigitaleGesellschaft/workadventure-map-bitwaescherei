@@ -37,10 +37,10 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/www.digitale-gesellschaft.ch\/pub\/index_wa.php"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -252,7 +252,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

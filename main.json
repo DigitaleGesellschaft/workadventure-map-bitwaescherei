@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"poc.json"
                 }],
          "type":"tilelayer",
          "visible":true,
