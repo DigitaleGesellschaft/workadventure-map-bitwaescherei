@@ -17,7 +17,7 @@
          "name":"exit1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -29,7 +29,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -47,7 +47,7 @@
                  "value":"poc.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -65,7 +65,7 @@
                  "value":"hackteria\/island.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -83,7 +83,7 @@
                  "value":"https:\/\/wiki.sgmk-ssam.ch\/wiki\/Main_Page"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -101,7 +101,7 @@
                  "value":"https:\/\/www.digitale-gesellschaft.ch\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -119,7 +119,7 @@
                  "value":"https:\/\/www.digitale-gesellschaft.ch\/uber-uns\/bitwaescherei\/ueber-uns\/bitwaescherei"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -137,7 +137,7 @@
                  "value":"https:\/\/www.digitale-gesellschaft.ch\/pub\/index_wa.php"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -155,7 +155,7 @@
                  "value":"https:\/\/hackteria.org\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -173,7 +173,7 @@
                  "value":"https:\/\/www.hackteria.org\/wiki\/BadLab_Zurich"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -191,7 +191,7 @@
                  "value":"https:\/\/c3woc.de\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -209,7 +209,7 @@
                  "value":"https:\/\/www.thisisnotacommercial.com\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -227,7 +227,7 @@
                  "value":"https:\/\/wiki.8bitmixtape.cc\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -245,7 +245,7 @@
                  "value":"Lounge"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -269,7 +269,7 @@
          "name":"floorbottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -281,7 +281,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -299,7 +299,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -311,7 +311,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -323,7 +323,7 @@
          "name":"island",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -335,7 +335,7 @@
          "name":"stuffs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -347,7 +347,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -358,7 +358,7 @@
          "name":"abitabove",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -370,7 +370,7 @@
          "name":"walltop",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
@@ -382,7 +382,7 @@
          "name":"veg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
