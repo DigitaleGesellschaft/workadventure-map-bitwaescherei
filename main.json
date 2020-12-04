@@ -1343,6 +1343,22 @@
                          "tileid":25
                         }],
                  "id":25
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":400,
+                         "tileid":35
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":39
+                        }, 
+                        {
+                         "duration":400,
+                         "tileid":43
+                        }],
+                 "id":35
                 }],
          "tilewidth":32
         }, 
