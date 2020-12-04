@@ -314,7 +314,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/p-node.org\/billiejean\/"
+                 "value":"https:\/\/p-node.org"
                 }],
          "type":"tilelayer",
          "visible":true,
