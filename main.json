@@ -366,7 +366,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openAudioStream",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/github.com\/DigitaleGesellschaft\/workadventure-map-bitwaescherei\/raw\/master\/hackteria\/hackteriaMIX_08.mp3"
                 }],
