@@ -296,7 +296,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dusjagr.hotglue.me\/?synthietest\/"
+                 "value":"baas.hotglue.me"
                 }],
          "type":"tilelayer",
          "visible":true,
