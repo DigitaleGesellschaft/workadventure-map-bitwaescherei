@@ -1528,7 +1528,7 @@
                 {
                  "animation":[
                         {
-                         "duration":70,
+                         "duration":100,
                          "tileid":81
                         }, 
                         {
@@ -1540,7 +1540,7 @@
                 {
                  "animation":[
                         {
-                         "duration":70,
+                         "duration":100,
                          "tileid":82
                         }, 
                         {
@@ -1552,11 +1552,11 @@
                 {
                  "animation":[
                         {
-                         "duration":70,
+                         "duration":150,
                          "tileid":84
                         }, 
                         {
-                         "duration":70,
+                         "duration":150,
                          "tileid":100
                         }],
                  "id":84
@@ -1580,10 +1580,22 @@
                          "tileid":86
                         }, 
                         {
-                         "duration":70,
+                         "duration":50,
                          "tileid":102
                         }],
                  "id":86
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":70,
+                         "tileid":88
+                        }, 
+                        {
+                         "duration":125,
+                         "tileid":104
+                        }],
+                 "id":88
                 }, 
                 {
                  "animation":[
