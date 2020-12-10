@@ -314,7 +314,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/baas.hotglue.me\/?start"
+                 "value":"https:\/\/baas.hotglue.me\/"
                 }],
          "type":"tilelayer",
          "visible":true,
