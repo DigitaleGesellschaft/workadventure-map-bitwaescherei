@@ -602,7 +602,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/github.com\/DigitaleGesellschaft\/workadventure-hackteria\/06_GALLERY_SONG_01.mp3"
+                 "value":"hackteria\/06_GALLERY_SONG_01.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
