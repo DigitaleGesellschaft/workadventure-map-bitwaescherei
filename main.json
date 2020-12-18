@@ -564,7 +564,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"hackteria\/hackteriaMIX_08.mp3"
                 }],
@@ -582,7 +582,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"sounds\/omega%20attraktor%20-%20space%20time%20continuum%20-%2001%20starflow.mp3"
                 }],
@@ -600,7 +600,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"https:\/\/github.com\/DigitaleGesellschaft\/workadventure-hackteria\/06_GALLERY_SONG_01.mp3"
                 }],
