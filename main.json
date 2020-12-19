@@ -440,7 +440,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.assembla.com\/spaces\/dominik-mahnic\/wiki\/%C4%8Copi%C4%8Dograf_Flomastrograf_Aerograf_2016-2020"
+                 "value":"https:\/\/mahnic.hotglue.me\/"
                 }],
          "type":"tilelayer",
          "visible":true,
