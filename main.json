@@ -386,7 +386,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dusjagr.hotglue.me\/"
+                 "value":"https:\/\/dusjagr.hotglue.me\/?duell\/"
                 }],
          "type":"tilelayer",
          "visible":true,
