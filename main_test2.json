@@ -1993,8 +1993,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":5511,
-         "source":"tiles\/bosque_expansion_cropped_top.tsx"
+         "image":"bosque_expansion_cropped_top.png",
+         "imageheight":4096,
+         "imagewidth":256,
+         "margin":0,
+         "name":"bosque_expansion_cropped_top",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":8,
