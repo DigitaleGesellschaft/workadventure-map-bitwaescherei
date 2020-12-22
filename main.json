@@ -1993,8 +1993,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":6807,
-         "source":"tiles\/d4hnezn_fixed.tsx"
+         "image":"d4hnezn_fixed.png",
+         "imageheight":11000,
+         "imagewidth":256,
+         "margin":0,
+         "name":"d4hnezn_fixed",
+         "spacing":0,
+         "tilecount":2744,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
