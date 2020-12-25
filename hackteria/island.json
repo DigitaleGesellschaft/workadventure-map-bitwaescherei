@@ -176,7 +176,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.com\/logos\/2016\/rockmore\/rockmore16.html"
+                 "value":"https:\/\/theremin.app\/"
                 }],
          "type":"tilelayer",
          "visible":true,
