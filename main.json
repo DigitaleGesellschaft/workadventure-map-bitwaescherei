@@ -2058,36 +2058,6 @@
          "tilecount":1024,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":6777,
-         "image":"..\/..\/..\/..\/..\/Projekte\/Digitale Gesellschaft\/Infrastruktur\/Arbeitsplatz\/workadventure-map-bitwaescherei\/pngs\/misc.png",
-         "imageheight":2048,
-         "imagewidth":512,
-         "margin":0,
-         "name":"misc",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "animation":[
-                        {
-                         "duration":400,
-                         "tileid":57
-                        }, 
-                        {
-                         "duration":400,
-                         "tileid":58
-                        }, 
-                        {
-                         "duration":400,
-                         "tileid":59
-                        }],
-                 "id":75
-                }],
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
