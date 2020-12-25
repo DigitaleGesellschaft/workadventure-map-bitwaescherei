@@ -833,7 +833,7 @@
          "name":"collision",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -845,7 +845,7 @@
          "name":"floorbottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -857,7 +857,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -869,7 +869,7 @@
          "name":"extrafloor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -887,7 +887,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -911,7 +911,7 @@
          "name":"island",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -923,7 +923,7 @@
          "name":"stuffs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":81,
          "x":0,
          "y":0
@@ -1015,7 +1015,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
