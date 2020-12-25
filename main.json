@@ -116,7 +116,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.winterkongress.ch\/"
+                 "value":"https:\/\/www.digitale-gesellschaft.ch\/kongress\/2021\/"
                 }],
          "type":"tilelayer",
          "visible":true,
