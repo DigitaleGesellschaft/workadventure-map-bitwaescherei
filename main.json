@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_bitwaescherei}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_bitwaescherei}"
                 }],
          "type":"tilelayer",
          "visible":true,
