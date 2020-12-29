@@ -816,9 +816,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Lounge"
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/bitwaescherei"
                 }],
          "type":"tilelayer",
          "visible":true,
