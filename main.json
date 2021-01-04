@@ -83,7 +83,7 @@
                  "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json}"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":81,
          "x":0,
          "y":0
