@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#start_alpen"
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_alpen"
                 }],
          "type":"tilelayer",
          "visible":true,
