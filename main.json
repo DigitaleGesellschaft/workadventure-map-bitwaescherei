@@ -852,9 +852,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/bitwaescherei"
+                 "value":"Chill-Out-Lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
