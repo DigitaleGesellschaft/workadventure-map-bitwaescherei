@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#hackteria"
                 }],
          "type":"tilelayer",
          "visible":true,
