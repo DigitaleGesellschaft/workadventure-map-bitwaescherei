@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"main.json"
+        }
+    },
  "height":39,
  "infinite":false,
  "layers":[
@@ -175,7 +183,7 @@
          "height":39,
          "id":37,
          "name":"website_coronis",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -193,7 +201,7 @@
          "height":39,
          "id":31,
          "name":"website_bitwaecherei_hotglue",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -427,7 +435,7 @@
          "height":39,
          "id":54,
          "name":"website_Hackteria_assembly",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -697,7 +705,7 @@
          "height":39,
          "id":79,
          "name":"website_ThirdWavePad",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -931,7 +939,7 @@
          "height":39,
          "id":47,
          "name":"jitsiRoom_chickenCam",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -967,7 +975,7 @@
          "height":39,
          "id":61,
          "name":"website_Chicken",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -1134,7 +1142,7 @@
          "height":39,
          "id":57,
          "name":"Workshop_screen",
-         "opacity":1,
+         "opacity":0,
          "type":"tilelayer",
          "visible":false,
          "width":81,
